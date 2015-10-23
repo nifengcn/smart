@@ -1,2 +1,2 @@
 # smart
-implement of some algorithm
+some implements
